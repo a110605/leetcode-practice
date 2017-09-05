@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg)  ![License](https://img.shields.io/dub/l/vibe-d.svg)
 
-
+## [Algrithm] (https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
 |---| ----- | -------- | ---------- |----------------- |
 |1|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|
@@ -14,3 +14,5 @@
 |---| ----- | -------- | ---------- |----------------- |
 |1|	Tenth Line| [bash](https://leetcode.com/submissions/detail/117170787/)|Easy|32.31%|
 |2|Sum of Two Integer | [Java](https://leetcode.com/submissions/detail/117158962/)|Easy|5.23%|
+
+## [Operating System](https://leetcode.com/problemset/operating-system/)
