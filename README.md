@@ -18,3 +18,6 @@
 |3| Transpose File | [bash](https://leetcode.com/submissions/detail/117507969/)|Medium|50.83%|
 
 ## [Operating System](https://leetcode.com/problemset/operating-system/)
+| # | Title | 
+|---| ----- |
+|1| [Operating system and kernel : Same or different?](https://discuss.leetcode.com/topic/91379/operating-system-and-kernel-same-or-different)|
