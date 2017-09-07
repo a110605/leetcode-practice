@@ -12,7 +12,9 @@
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
 |---| ----- | -------- | ---------- |----------------- |
-|1|	Tenth Line| [bash](https://leetcode.com/submissions/detail/117170787/)|Easy|32.31%|
-|2|Valid Phone Numbers | [bash](https://leetcode.com/submissions/detail/117174270/)|Easy|38.42%|
+|1| Tenth Line| [bash](https://leetcode.com/submissions/detail/117170787/)|Easy|32.31%|
+|2| Valid Phone Numbers | [bash](https://leetcode.com/submissions/detail/117174270/)|Easy|38.42%|
+|3| Word Frequency | [bash](https://leetcode.com/submissions/detail/117502389/)|Medium|27.68%|
+|3| Transpose File | [bash](https://leetcode.com/submissions/detail/117507969/)|Medium|50.83%|
 
 ## [Operating System](https://leetcode.com/problemset/operating-system/)
