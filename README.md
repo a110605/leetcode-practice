@@ -24,3 +24,11 @@
 |2| [Difference between forking and multithreading?](https://discuss.leetcode.com/topic/90888/difference-between-forking-and-multithreading)| http://www.geekride.com/fork-forking-vs-threading-thread-linux-kernel/ |
 |3| [what happens in the background from the time you press the Power button until the Linux login prompt appears??](https://discuss.leetcode.com/topic/92910/what-happens-in-the-background-from-the-time-you-press-the-power-button-until-the-linux-login-prompt-appears)|  |
 |4| [What is interrupt? How does interrupt work??](https://discuss.leetcode.com/topic/91895/what-is-interrupt-how-does-interrupt-work)|  https://en.wikipedia.org/wiki/Interrupt|
+|5| [Brief introduction to the Operating System Scheduling algorithms?](https://discuss.leetcode.com/topic/90876/brief-introduction-to-the-operating-system-scheduling-algorithms/4)| First-Come, First-Served (FCFS) Scheduling
+Shortest-Job-Next (SJN) Scheduling
+Priority Scheduling
+Shortest Remaining Time
+Round Robin(RR) Scheduling
+Multiple-Level Queues Scheduling
+
+https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm |
