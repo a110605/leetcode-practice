@@ -23,3 +23,4 @@
 |1| [Operating system and kernel : Same or different?](https://discuss.leetcode.com/topic/91379/operating-system-and-kernel-same-or-different)| |
 |2| [Difference between forking and multithreading?](https://discuss.leetcode.com/topic/90888/difference-between-forking-and-multithreading)| http://www.geekride.com/fork-forking-vs-threading-thread-linux-kernel/ |
 |3| [what happens in the background from the time you press the Power button until the Linux login prompt appears??](https://discuss.leetcode.com/topic/92910/what-happens-in-the-background-from-the-time-you-press-the-power-button-until-the-linux-login-prompt-appears)|  |
+|4| [What is interrupt? How does interrupt work??](https://discuss.leetcode.com/topic/91895/what-is-interrupt-how-does-interrupt-work)|  https://en.wikipedia.org/wiki/Interrupt|
