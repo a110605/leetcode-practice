@@ -27,3 +27,4 @@
 |3| [what happens in the background from the time you press the Power button until the Linux login prompt appears??](https://discuss.leetcode.com/topic/92910/what-happens-in-the-background-from-the-time-you-press-the-power-button-until-the-linux-login-prompt-appears)|  |
 |4| [What is interrupt? How does interrupt work??](https://discuss.leetcode.com/topic/91895/what-is-interrupt-how-does-interrupt-work)|  https://en.wikipedia.org/wiki/Interrupt|
 |5| [Brief introduction to the Operating System Scheduling algorithms?](https://discuss.leetcode.com/topic/90876/brief-introduction-to-the-operating-system-scheduling-algorithms/)|https://goo.gl/pfMGmQ |
+|6| [How to/best practices to write a thread safe code??](https://discuss.leetcode.com/topic/95726/how-to-best-practices-to-write-a-thread-safe-code)|https://goo.gl/9vyxy |
