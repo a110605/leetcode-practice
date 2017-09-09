@@ -8,6 +8,7 @@
 |3|Array Partition I | [Java](https://leetcode.com/submissions/detail/117166202/)|Easy|24.69%|
 |4|Single Number| [Java](https://leetcode.com/submissions/detail/117170172/)|Easy|31.67%|
 |5|Two Sum II - Input array is sorted| [Java](https://leetcode.com/submissions/detail/117682773/)|Easy|12.67%|
+|6|Max Consecutive Ones| [Java](https://leetcode.com/submissions/detail/117767949/)|Easy|40.08%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
