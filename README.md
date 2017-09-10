@@ -10,6 +10,7 @@
 |5|Two Sum II - Input array is sorted| [Java](https://leetcode.com/submissions/detail/117682773/)|Easy|12.67%|
 |6|Max Consecutive Ones| [Java](https://leetcode.com/submissions/detail/117767949/)|Easy|40.08%|
 |7|Maximum Average Subarray I| [Java](https://leetcode.com/submissions/detail/117773648/)|Easy|72.70%|
+|8|Third Maximum Number| [Java](https://leetcode.com/submissions/detail/117991386/)|Easy|14.80%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
