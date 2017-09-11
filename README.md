@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## [Algrithm](https://leetcode.com/problemset/algorithms/)
+## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
 |---| ----- | -------- | ---------- |----------------- |
 |1|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|
