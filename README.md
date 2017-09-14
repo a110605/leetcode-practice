@@ -11,6 +11,8 @@
 |6|Max Consecutive Ones| [Java](https://leetcode.com/submissions/detail/117767949/)|Easy|40.08%|
 |7|Maximum Average Subarray I| [Java](https://leetcode.com/submissions/detail/117773648/)|Easy|72.70%|
 |8|Third Maximum Number| [Java](https://leetcode.com/submissions/detail/117991692/)|Easy|14.80%|
+|9|Find All Numbers Disappeared in an Array| [Java](https://leetcode.com/submissions/detail/118670655/)|Easy|49.05%|
+|10|Maximum Product of Three Numbers| [Java](https://leetcode.com/submissions/detail/118689647/)|Easy|19.02%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
