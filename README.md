@@ -14,6 +14,7 @@
 |9|Find All Numbers Disappeared in an Array| [Java](https://leetcode.com/submissions/detail/118670655/)|Easy|49.05%|
 |10|Maximum Product of Three Numbers| [Java](https://leetcode.com/submissions/detail/118689647/)|Easy|19.02%|
 |11|Contains Duplicate| [Java](https://leetcode.com/submissions/detail/118968645/)|Easy|87.02%|
+|12|Longest Continuous Increasing Subsequence| [Java](https://leetcode.com/submissions/detail/119281994/)|Easy|68.99%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
