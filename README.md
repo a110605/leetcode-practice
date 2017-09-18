@@ -33,3 +33,6 @@
 |4| [What is interrupt? How does interrupt work??](https://discuss.leetcode.com/topic/91895/what-is-interrupt-how-does-interrupt-work)|  https://en.wikipedia.org/wiki/Interrupt|
 |5| [Brief introduction to the Operating System Scheduling algorithms?](https://discuss.leetcode.com/topic/90876/brief-introduction-to-the-operating-system-scheduling-algorithms/)|https://goo.gl/pfMGmQ |
 |6| [How to/best practices to write a thread safe code??](https://discuss.leetcode.com/topic/95726/how-to-best-practices-to-write-a-thread-safe-code)|https://goo.gl/9vyxy <br/>https://puremonkey2010.blogspot.tw/2010/08/java-synchronized.html |
+|7| [Deadlock?](https://discuss.leetcode.com/topic/91074/deadlock)||
+
+
