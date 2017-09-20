@@ -15,6 +15,7 @@
 |10|Maximum Product of Three Numbers| [Java](https://leetcode.com/submissions/detail/118689647/)|Easy|19.02%|
 |11|Contains Duplicate| [Java](https://leetcode.com/submissions/detail/118968645/)|Easy|87.02%|
 |12|Longest Continuous Increasing Subsequence| [Java](https://leetcode.com/submissions/detail/119281994/)|Easy|68.99%|
+|13|Can Place Flowers| [Java](https://leetcode.com/submissions/detail/119677995/)|Easy|61.40%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
