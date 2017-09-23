@@ -16,7 +16,8 @@
 |11|Contains Duplicate| [Java](https://leetcode.com/submissions/detail/118968645/)|Easy|87.02%|
 |12|Longest Continuous Increasing Subsequence| [Java](https://leetcode.com/submissions/detail/119281994/)|Easy|68.99%|
 |13|Can Place Flowers| [Java](https://leetcode.com/submissions/detail/119679386/)|Easy|61.40%|
-|13|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%|
+|14|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%|
+|15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
