@@ -18,6 +18,7 @@
 |13|Can Place Flowers| [Java](https://leetcode.com/submissions/detail/119679386/)|Easy|61.40%|
 |14|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%|
 |15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%|
+|16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
