@@ -1,9 +1,10 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
-| # | Title | My Solution | Difficulty | Runtime Distribution | Others Solution |
-|---| ----- | -------- | ---------- |----------------- |---------- |
+| # | Title | My Solution | Difficulty | Runtime Distribution | References |
+|---| ----- | ------------| ---------- | -------------------- | --------------- |
 |1|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%||
+|1|String Reverse II | [Java](https://leetcode.com/submissions/detail/120994187/)|Easy|48.71%|https://goo.gl/kQedC1|
 |2|Sum of Two Integer | [Java](https://leetcode.com/submissions/detail/117158962/)|Easy|5.23%||
 |3|Array Partition I | [Java](https://leetcode.com/submissions/detail/117166202/)|Easy|24.69%||
 |4|Single Number| [Java](https://leetcode.com/submissions/detail/117170172/)|Easy|31.67%||
