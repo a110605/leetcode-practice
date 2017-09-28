@@ -19,7 +19,7 @@
 |14|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%||
 |15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%||
 |16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%||
-|17|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://segmentfault.com/a/1190000003704825|
+|17|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://goo.gl/tPiLpt|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
