@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
-| # | Title | My Solution | Others Solution | Difficulty | Runtime Distribution |
-|---| ----- | -------- |---------- | ---------- |----------------- |
+| # | Title | My Solution | Difficulty | Runtime Distribution | Others Solution |
+|---| ----- | -------- | ---------- |----------------- |---------- |
 |1|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|
 |2|Sum of Two Integer | [Java](https://leetcode.com/submissions/detail/117158962/)|Easy|5.23%|
 |3|Array Partition I | [Java](https://leetcode.com/submissions/detail/117166202/)|Easy|24.69%|
@@ -19,7 +19,7 @@
 |14|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%|
 |15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%|
 |16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%|
-|17|Kth Largest Element in an Array|https://segmentfault.com/a/1190000003704825| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|
+|17|Kth Largest Element in an Array [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://segmentfault.com/a/1190000003704825|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
