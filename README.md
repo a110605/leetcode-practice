@@ -22,6 +22,7 @@
 |15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%||
 |16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%||
 |17|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://goo.gl/tPiLpt|
+|18|Repeated String Match| [Java](https://leetcode.com/submissions/detail/122374244/)|Easy|66.14%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
