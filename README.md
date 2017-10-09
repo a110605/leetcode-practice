@@ -23,6 +23,7 @@
 |16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%||
 |17|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://goo.gl/tPiLpt|
 |18|Repeated String Match| [Java](https://leetcode.com/submissions/detail/122374244/)|Easy|66.14%||
+|19|Merge Sorted Array| [Java](https://leetcode.com/submissions/detail/122651785/)|Easy|30.73%|https://goo.gl/mASXEL|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
