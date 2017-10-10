@@ -25,7 +25,7 @@
 |18|Repeated String Match| [Java](https://leetcode.com/submissions/detail/122374244/)|Easy|66.14%||
 |19|Merge Sorted Array| [Java](https://leetcode.com/submissions/detail/122651785/)|Easy|30.73%|https://goo.gl/mASXEL|
 |20|Island Perimeter| [Java](https://leetcode.com/submissions/detail/122723890/)|Easy|2.41%||
-
+|21|Judge Route Circle| [Java](https://leetcode.com/submissions/detail/122845838/)|Easy|48.96%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
