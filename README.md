@@ -27,6 +27,7 @@
 |20|Island Perimeter| [Java](https://leetcode.com/submissions/detail/122723890/)|Easy|2.41%||
 |21|Judge Route Circle| [Java](https://leetcode.com/submissions/detail/122845838/)|Easy|48.96%||
 |22|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
+|23|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
