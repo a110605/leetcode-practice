@@ -28,6 +28,7 @@
 |21|Judge Route Circle| [Java](https://leetcode.com/submissions/detail/122845838/)|Easy|48.96%||
 |22|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
 |23|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
+|24|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
