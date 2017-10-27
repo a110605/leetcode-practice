@@ -4,6 +4,7 @@
 | # | Title | My Solution | Difficulty | Score| References |
 |---| ----- | ------------| ---------- | -------------------- | --------------- |
 |1|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|Easy|100|https://goo.gl/Q41MvL|
+|2|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)|Easy|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
