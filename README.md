@@ -1,10 +1,11 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## Codility
-| # | Title | My Solution | Difficulty | Score| References |
-|---| ----- | ------------| ---------- | -------------------- | --------------- |
-|1|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|Easy|100|https://goo.gl/Q41MvL|
-|2|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)|Easy|100||
+| # | Title | My Solution | Difficulty | References |
+|---| ----- | ------------| ---------- | --------------- |
+|1|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|Easy|https://goo.gl/Q41MvL|
+|2|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)|Easy||
+|3| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|Easy|https://goo.gl/e58xUo|
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
