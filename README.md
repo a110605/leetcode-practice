@@ -6,7 +6,8 @@
 |1|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
 |2|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)||
 |3| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|https://goo.gl/e58xUo|
-|4| CyclicRotation| Java||
+|4| CyclicRotation | Java||
+|5| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
