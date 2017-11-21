@@ -8,6 +8,7 @@
 |3| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|https://goo.gl/e58xUo|
 |4| CyclicRotation | Java||
 |5| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
+|6| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
