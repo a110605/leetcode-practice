@@ -9,6 +9,9 @@
 |4| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)||
 |5| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
 |6| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
+|6| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)||
+
+
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
