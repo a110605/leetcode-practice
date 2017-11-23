@@ -10,7 +10,7 @@
 |5| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
 |6| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)||
 |7|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
-
+|8|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
 
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
