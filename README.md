@@ -12,6 +12,8 @@
 |7|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
 |8|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
 |9| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||
+|10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|https://www.martinkysel.com/?p=687|
+
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
