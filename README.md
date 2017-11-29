@@ -13,6 +13,7 @@
 |8|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
 |9| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||
 |10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|https://www.martinkysel.com/?p=687|
+|11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)||
 
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
