@@ -15,6 +15,8 @@
 |10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|https://www.martinkysel.com/?p=687|
 |11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)||
 |12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)||
+|13| Distinct| [Java](https://codility.com/demo/results/trainingJ7MUEN-FP6/)||
+
 
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
