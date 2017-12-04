@@ -16,7 +16,7 @@
 |11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)||
 |12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)||
 |13| Distinct| [Java](https://codility.com/demo/results/trainingJ7MUEN-FP6/)||
-
+|14| MaxProductOfThree| [Java](https://codility.com/demo/results/trainingXYSMH2-XN7/)|| 
 
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
