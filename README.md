@@ -19,6 +19,7 @@
 |14| MaxProductOfThree| [Java](https://codility.com/demo/results/trainingXYSMH2-XN7/)|| 
 |15| NumberOfDiscIntersections| [Java](https://codility.com/demo/results/training8RB9UR-MSX/)||
 |16| Brackets| [Java](https://codility.com/demo/results/trainingRKCEYF-MUX/)||
+|17| Nesting| [Java](https://codility.com/demo/results/trainingMGAPUG-CAM/)||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
