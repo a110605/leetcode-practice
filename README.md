@@ -20,7 +20,8 @@
 |15| NumberOfDiscIntersections| [Java](https://codility.com/demo/results/training8RB9UR-MSX/)||
 |16| Brackets| [Java](https://codility.com/demo/results/trainingRKCEYF-MUX/)||
 |17| Nesting| [Java](https://codility.com/demo/results/trainingMGAPUG-CAM/)||
-|17| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|https://rafal.io/posts/codility-fish.html|
+|18| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|https://rafal.io/posts/codility-fish.html|
+|19| Dominator | [Java](https://codility.com/demo/results/trainingPF8325-CNS/)||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
