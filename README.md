@@ -22,6 +22,7 @@
 |17| Nesting| [Java](https://codility.com/demo/results/trainingMGAPUG-CAM/)||
 |18| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|https://rafal.io/posts/codility-fish.html|
 |19| Dominator | [Java](https://codility.com/demo/results/trainingPF8325-CNS/)||
+|20| EquiLeader  | [Java](https://codility.com/demo/results/trainingCXSURQ-ATT/)||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
