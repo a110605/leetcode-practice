@@ -23,7 +23,9 @@
 |18| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|https://rafal.io/posts/codility-fish.html|
 |19| Dominator | [Java](https://codility.com/demo/results/trainingPF8325-CNS/)||
 |20| EquiLeader  | [Java](https://codility.com/demo/results/trainingCXSURQ-ATT/)||
+|21| MaxProfit  | [Java](https://app.codility.com/demo/results/trainingGT4D3Q-S2Y/)||
 
+ 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
 |---| ----- | ------------| ---------- | -------------------- | --------------- |
