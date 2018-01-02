@@ -25,6 +25,7 @@
 |20| EquiLeader  | [Java](https://codility.com/demo/results/trainingCXSURQ-ATT/)||
 |21| MaxProfit  | [Java](https://app.codility.com/demo/results/trainingGT4D3Q-S2Y/)||
 |22| MaxDoubleSliceSum  | [Java](https://app.codility.com/demo/results/trainingAG2JHK-RG6/)|https://rafal.io/posts/codility-max-double-slice-sum.html|
+|23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)||
  
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
