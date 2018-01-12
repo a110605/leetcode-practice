@@ -27,7 +27,7 @@
 |22| MaxDoubleSliceSum  | [Java](https://app.codility.com/demo/results/trainingAG2JHK-RG6/)|https://rafal.io/posts/codility-max-double-slice-sum.html|
 |23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)||
 |24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|| 
-|24| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
+|25| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
  
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
