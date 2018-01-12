@@ -27,6 +27,7 @@
 |22| MaxDoubleSliceSum  | [Java](https://app.codility.com/demo/results/trainingAG2JHK-RG6/)|https://rafal.io/posts/codility-max-double-slice-sum.html|
 |23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)||
 |24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|| 
+|24| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
  
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
@@ -57,6 +58,7 @@
 |22|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
 |23|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
 |24|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
+
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
