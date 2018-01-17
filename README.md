@@ -3,15 +3,15 @@
 ## [Codility](https://codility.com/programmers/lessons/1-iterations/)
 | # | Title | My Solution | References |
 |---| ----- | ------------| --------------- |
-|1|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)||
-|2| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|https://goo.gl/e58xUo|
-|3| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)||
-|4| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
-|5| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
-|6| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)||
-|7|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
-|8|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
-|9| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||
+|01|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)||
+|02| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|https://goo.gl/e58xUo|
+|03| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)||
+|04| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
+|05| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
+|06| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)||
+|07|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
+|08|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
+|09| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||
 |10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|https://www.martinkysel.com/?p=687|
 |11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)||
 |12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)||
@@ -28,36 +28,37 @@
 |23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)||
 |24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|| 
 |25| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
+|26|  MinPerimeterRectangle | [Java](https://app.codility.com/demo/results/trainingDJM83D-CXE/)||  
  
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
 |---| ----- | ------------| ---------- | -------------------- | --------------- |
-|1|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|https://goo.gl/JHrRSx|
-|1.1|String Reverse II | [Java](https://leetcode.com/submissions/detail/120994187/)|Easy|48.71%|https://goo.gl/kQedC1|
-|1.2|Reverse Words in a String III | [Java](https://leetcode.com/submissions/detail/121001822/)|Easy|9.52%|https://goo.gl/4ynVNa|
-|2|Sum of Two Integer | [Java](https://leetcode.com/submissions/detail/117158962/)|Easy|5.23%||
-|3|Array Partition I | [Java](https://leetcode.com/submissions/detail/117166202/)|Easy|24.69%||
-|4|Single Number| [Java](https://leetcode.com/submissions/detail/117170172/)|Easy|31.67%||
-|5|Two Sum II - Input array is sorted| [Java](https://leetcode.com/submissions/detail/117682773/)|Easy|12.67%||
-|6|Max Consecutive Ones| [Java](https://leetcode.com/submissions/detail/117767949/)|Easy|40.08%||
-|7|Maximum Average Subarray I| [Java](https://leetcode.com/submissions/detail/117773648/)|Easy|72.70%||
-|8|Third Maximum Number| [Java](https://leetcode.com/submissions/detail/117991692/)|Easy|14.80%||
-|9|Find All Numbers Disappeared in an Array| [Java](https://leetcode.com/submissions/detail/118670655/)|Easy|49.05%||
-|10|Maximum Product of Three Numbers| [Java](https://leetcode.com/submissions/detail/118689647/)|Easy|19.02%||
-|11|Contains Duplicate| [Java](https://leetcode.com/submissions/detail/118968645/)|Easy|87.02%||
-|12|Longest Continuous Increasing Subsequence| [Java](https://leetcode.com/submissions/detail/119281994/)|Easy|68.99%||
-|13|Can Place Flowers| [Java](https://leetcode.com/submissions/detail/119679386/)|Easy|61.40%||
-|14|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%||
-|15|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%||
-|16|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%||
-|17|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://goo.gl/tPiLpt|
-|18|Repeated String Match| [Java](https://leetcode.com/submissions/detail/122374244/)|Easy|66.14%||
-|19|Merge Sorted Array| [Java](https://leetcode.com/submissions/detail/122651785/)|Easy|30.73%|https://goo.gl/mASXEL|
-|20|Island Perimeter| [Java](https://leetcode.com/submissions/detail/122723890/)|Easy|2.41%||
-|21|Judge Route Circle| [Java](https://leetcode.com/submissions/detail/122845838/)|Easy|48.96%||
-|22|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
-|23|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
-|24|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
+|01|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|https://goo.gl/JHrRSx|
+|02|String Reverse II | [Java](https://leetcode.com/submissions/detail/120994187/)|Easy|48.71%|https://goo.gl/kQedC1|
+|03|Reverse Words in a String III | [Java](https://leetcode.com/submissions/detail/121001822/)|Easy|9.52%|https://goo.gl/4ynVNa|
+|04|Sum of Two Integer | [Java](https://leetcode.com/submissions/detail/117158962/)|Easy|5.23%||
+|05|Array Partition I | [Java](https://leetcode.com/submissions/detail/117166202/)|Easy|24.69%||
+|06|Single Number| [Java](https://leetcode.com/submissions/detail/117170172/)|Easy|31.67%||
+|07|Two Sum II - Input array is sorted| [Java](https://leetcode.com/submissions/detail/117682773/)|Easy|12.67%||
+|08|Max Consecutive Ones| [Java](https://leetcode.com/submissions/detail/117767949/)|Easy|40.08%||
+|09|Maximum Average Subarray I| [Java](https://leetcode.com/submissions/detail/117773648/)|Easy|72.70%||
+|10|Third Maximum Number| [Java](https://leetcode.com/submissions/detail/117991692/)|Easy|14.80%||
+|11|Find All Numbers Disappeared in an Array| [Java](https://leetcode.com/submissions/detail/118670655/)|Easy|49.05%||
+|12|Maximum Product of Three Numbers| [Java](https://leetcode.com/submissions/detail/118689647/)|Easy|19.02%||
+|13|Contains Duplicate| [Java](https://leetcode.com/submissions/detail/118968645/)|Easy|87.02%||
+|14|Longest Continuous Increasing Subsequence| [Java](https://leetcode.com/submissions/detail/119281994/)|Easy|68.99%||
+|15|Can Place Flowers| [Java](https://leetcode.com/submissions/detail/119679386/)|Easy|61.40%||
+|16|Find All Duplicates in an Array| [Java](https://leetcode.com/submissions/detail/120128320//)|Easy|34.36%||
+|17|Next Greater Element I| [Java](https://leetcode.com/submissions/detail/120156084/)|Easy|40.55%||
+|18|Search Insert Position| [Java](https://leetcode.com/submissions/detail/120162596/)|Easy|60.99%||
+|19|Kth Largest Element in an Array| [Java](https://leetcode.com/submissions/detail/120991489/)|Easy|82.39%|https://goo.gl/tPiLpt|
+|20|Repeated String Match| [Java](https://leetcode.com/submissions/detail/122374244/)|Easy|66.14%||
+|21|Merge Sorted Array| [Java](https://leetcode.com/submissions/detail/122651785/)|Easy|30.73%|https://goo.gl/mASXEL|
+|22|Island Perimeter| [Java](https://leetcode.com/submissions/detail/122723890/)|Easy|2.41%||
+|23|Judge Route Circle| [Java](https://leetcode.com/submissions/detail/122845838/)|Easy|48.96%||
+|24|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
+|25|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
+|26|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
 
 
 ## [Shell](https://leetcode.com/problemset/shell/)
