@@ -29,8 +29,8 @@
 |24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|| 
 |25| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
 |26|  MinPerimeterRectangle | [Java](https://app.codility.com/demo/results/trainingDJM83D-CXE/)|| 
-|27|CountFactors|[Java](https://app.codility.com/demo/results/training5YNM8S-GH7/)||
- 
+|27| CountFactors|[Java](https://app.codility.com/demo/results/training5YNM8S-GH7/)||
+|28| Peaks |[Java](https://app.codility.com/demo/results/trainingP3W563-9TU/)||
  
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
