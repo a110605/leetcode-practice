@@ -11,7 +11,7 @@
 |06| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)|100||
 |07|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|100|https://goo.gl/Q41MvL|
 |08|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)|100||
-|09| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||100|
+|09| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)|100||
 |10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|100|https://www.martinkysel.com/?p=687|
 |11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)|62||
 |12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)|100||
