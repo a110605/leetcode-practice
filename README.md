@@ -1,38 +1,38 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## [Codility](https://codility.com/programmers/lessons/1-iterations/)
-| # | Title | My Solution | References |
-|---| ----- | ------------| --------------- |
-|01|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)||
-|02| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|https://goo.gl/e58xUo|
-|03| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)||
-|04| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|https://goo.gl/BYSUJB|
-|05| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)||
-|06| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)||
-|07|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|https://goo.gl/Q41MvL|
-|08|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)||
-|09| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||
-|10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|https://www.martinkysel.com/?p=687|
-|11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)||
-|12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)||
-|13| Distinct| [Java](https://codility.com/demo/results/trainingJ7MUEN-FP6/)||
-|14| MaxProductOfThree| [Java](https://codility.com/demo/results/trainingXYSMH2-XN7/)|| 
-|15| NumberOfDiscIntersections| [Java](https://codility.com/demo/results/training8RB9UR-MSX/)||
-|16| Brackets| [Java](https://codility.com/demo/results/trainingRKCEYF-MUX/)||
-|17| Nesting| [Java](https://codility.com/demo/results/trainingMGAPUG-CAM/)||
-|18| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|https://rafal.io/posts/codility-fish.html|
-|19| Dominator | [Java](https://codility.com/demo/results/trainingPF8325-CNS/)||
-|20| EquiLeader  | [Java](https://codility.com/demo/results/trainingCXSURQ-ATT/)||
-|21| MaxProfit  | [Java](https://app.codility.com/demo/results/trainingGT4D3Q-S2Y/)||
-|22| MaxDoubleSliceSum  | [Java](https://app.codility.com/demo/results/trainingAG2JHK-RG6/)|https://rafal.io/posts/codility-max-double-slice-sum.html|
-|23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)||
-|24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|| 
-|25| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)||  
-|26|  MinPerimeterRectangle | [Java](https://app.codility.com/demo/results/trainingDJM83D-CXE/)|| 
-|27| CountFactors|[Java](https://app.codility.com/demo/results/training5YNM8S-GH7/)||
-|28| Peaks |[Java](https://app.codility.com/demo/results/trainingP3W563-9TU/)||
-|29| CountSemiprime |[Java](https://app.codility.com/demo/results/trainingC43R47-HQ5/)|| 
-|30| CountNonDivisible |[Java](https://app.codility.com/demo/results/trainingG3FBPD-U7T/)||
+| # | Title | My Solution |Score |References |
+|---| ----- | ------------| -------| --------------- |
+|01|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)|100||
+|02| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|100|https://goo.gl/e58xUo|
+|03| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)|100||
+|04| PermMissingElem | [Java](https://codility.com/demo/results/trainingZSBN4M-EP6/)|100|https://goo.gl/BYSUJB|
+|05| TapeEquilibrium | [Java](https://codility.com/demo/results/trainingTUN8MM-SCE/)|100||
+|06| PermCheck | [Java](https://codility.com/demo/results/trainingW5JYFJ-TBX/)|100||
+|07|MissingInteger| [Java](https://codility.com/demo/results/demoG4275K-ZKB)|100|https://goo.gl/Q41MvL|
+|08|FrogRiverOne| [Java](https://codility.com/demo/results/trainingJS6QGS-QW9/)|100||
+|09| CountDiv| [Java](https://codility.com/demo/results/trainingSBCEC6-XFG/)||100|
+|10| MinAvgTwoSlice| [Java](https://codility.com/demo/results/training3SGAWP-DTT/)|100|https://www.martinkysel.com/?p=687|
+|11| GenomicRangeQuery | [Java](https://codility.com/demo/results/trainingEYFBJ3-9T2/)|62||
+|12| Triangle | [Java](https://codility.com/demo/results/trainingYCWJFN-3GV/)|100||
+|13| Distinct| [Java](https://codility.com/demo/results/trainingJ7MUEN-FP6/)|100||
+|14| MaxProductOfThree| [Java](https://codility.com/demo/results/trainingXYSMH2-XN7/)|100|| 
+|15| NumberOfDiscIntersections| [Java](https://codility.com/demo/results/training8RB9UR-MSX/)|56||
+|16| Brackets| [Java](https://codility.com/demo/results/trainingRKCEYF-MUX/)|100||
+|17| Nesting| [Java](https://codility.com/demo/results/trainingMGAPUG-CAM/)|100||
+|18| Fish | [Java](https://codility.com/demo/results/trainingEKMEAT-APV/)|100|https://rafal.io/posts/codility-fish.html|
+|19| Dominator | [Java](https://codility.com/demo/results/trainingPF8325-CNS/)|100||
+|20| EquiLeader  | [Java](https://codility.com/demo/results/trainingCXSURQ-ATT/)|100||
+|21| MaxProfit  | [Java](https://app.codility.com/demo/results/trainingGT4D3Q-S2Y/)|100||
+|22| MaxDoubleSliceSum  | [Java](https://app.codility.com/demo/results/trainingAG2JHK-RG6/)|100|https://rafal.io/posts/codility-max-double-slice-sum.html|
+|23| MaxSliceSum  | [Java](https://app.codility.com/demo/results/trainingS78T2U-W4K/)|100||
+|24| Ladder | [Java](https://app.codility.com/demo/results/training294TFY-U3X/)|100|| 
+|25| CommonPrimeDivisors | [Java](https://app.codility.com/demo/results/training8F8M3Z-2KZ/)|100||  
+|26|  MinPerimeterRectangle | [Java](https://app.codility.com/demo/results/trainingDJM83D-CXE/)|100|| 
+|27| CountFactors|[Java](https://app.codility.com/demo/results/training5YNM8S-GH7/)|100||
+|28| Peaks |[Java](https://app.codility.com/demo/results/trainingP3W563-9TU/)|100||
+|29| CountSemiprime |[Java](https://app.codility.com/demo/results/trainingC43R47-HQ5/)|66|| 
+|30| CountNonDivisible |[Java](https://app.codility.com/demo/results/trainingG3FBPD-U7T/)|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
