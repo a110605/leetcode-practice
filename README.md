@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Java%20%2F%20bash-brightgreen.svg) ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## [Codility](https://codility.com/programmers/lessons/1-iterations/)
-| # | Title | My Solution |Score |References |
-|---| ----- | ------------| -------| --------------- |
+| # | Title | Solution |Score |References |
+|---| ----- | ----------| -------| --------------- |
 |01|BinaryGap| [Java](https://codility.com/demo/results/trainingKSSKYW-C8V/)|100||
 |02| OddOccurrencesInArray| [Java](https://codility.com/demo/results/trainingD5X8BD-WSP/)|100|https://goo.gl/e58xUo|
 |03| CyclicRotation | [Java](https://codility.com/demo/results/trainingBFZ8X5-TYE/)|100||
