@@ -33,6 +33,7 @@
 |28| Peaks |[Java](https://app.codility.com/demo/results/trainingP3W563-9TU/)|100||
 |29| CountSemiprime |[Java](https://app.codility.com/demo/results/trainingC43R47-HQ5/)|66|| 
 |30| CountNonDivisible |[Java](https://app.codility.com/demo/results/trainingG3FBPD-U7T/)|100||
+|31| AbsDisinct |[Java](https://app.codility.com/demo/results/trainingV6V6RB-NNW/)|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
