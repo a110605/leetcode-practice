@@ -38,7 +38,7 @@
 |33| MinMaxDivision|[Java](https://app.codility.com/demo/results/trainingN57CVP-BAP/)|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
-| # | Title | My Solution | Difficulty | Runtime Distribution | References |
+| # | Title | Solution | Difficulty | Runtime Distribution | References |
 |---| ----- | ------------| ---------- | -------------------- | --------------- |
 |01|String Reverse | [Java](https://leetcode.com/submissions/detail/116986186/)|Easy|76.29%|https://goo.gl/JHrRSx|
 |02|String Reverse II | [Java](https://leetcode.com/submissions/detail/120994187/)|Easy|48.71%|https://goo.gl/kQedC1|
@@ -66,7 +66,7 @@
 |24|Nim Game| [Java](https://leetcode.com/submissions/detail/123781505/)|Easy|3.26%||
 |25|Max Area of Island| [Java](https://leetcode.com/submissions/detail/123947138//)|Easy|41.51%|https://wp.me/p8Gp04-2mJ|
 |26|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
-
+|27|Valid Palindrome | [Java](https://leetcode.com/submissions/detail/142145846/)|Easy|23.33%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
