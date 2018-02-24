@@ -35,6 +35,7 @@
 |30| CountNonDivisible |[Java](https://app.codility.com/demo/results/trainingG3FBPD-U7T/)|100||
 |31| AbsDisinct |[Java](https://app.codility.com/demo/results/trainingV6V6RB-NNW/)|100||
 |32| CountTriangles|[Java](https://app.codility.com/demo/results/trainingC72WWH-C69/)|100||
+|33| MinMaxDivision|[Java](https://app.codility.com/demo/results/trainingN57CVP-BAP/)|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | My Solution | Difficulty | Runtime Distribution | References |
