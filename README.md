@@ -68,6 +68,7 @@
 |26|Count Binary Substrings| [Java](https://leetcode.com/submissions/detail/124015055/)|Easy|95.79%||
 |27|Valid Palindrome | [Java](https://leetcode.com/submissions/detail/142145846/)|Easy|23.33%||
 |28|Valid Palindrome II | [Java](https://leetcode.com/submissions/detail/142157397/)|Easy|98.63%||
+|29|Add Binary | [Java](https://leetcode.com/submissions/detail/142297683/)|Easy|42.60%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
