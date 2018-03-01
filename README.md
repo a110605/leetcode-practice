@@ -38,7 +38,7 @@
 |33| MinMaxDivision|[Java](https://app.codility.com/demo/results/trainingN57CVP-BAP/)|100||
 |34| CountDisinctSlice|[Java](https://app.codility.com/demo/results/trainingCGZ4DU-XXB/)|100||
 |35| TieRopes |[Java](https://app.codility.com/demo/results/trainingBWRP25-JQ6/)|100||
-
+|36| MaxNonoverlappingSegments |[Java](https://app.codility.com/demo/results/training9G844S-BCW/)|100||
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty | Runtime Distribution | References |
