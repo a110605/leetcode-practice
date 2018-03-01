@@ -37,6 +37,8 @@
 |32| CountTriangles|[Java](https://app.codility.com/demo/results/trainingC72WWH-C69/)|100||
 |33| MinMaxDivision|[Java](https://app.codility.com/demo/results/trainingN57CVP-BAP/)|100||
 |34| CountDisinctSlice|[Java](https://app.codility.com/demo/results/trainingCGZ4DU-XXB/)|100||
+|35| TieRopes |[Java](https://app.codility.com/demo/results/trainingBWRP25-JQ6/)|100||
+
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty | Runtime Distribution | References |
