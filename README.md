@@ -39,6 +39,8 @@
 |34| CountDisinctSlice|[Java](https://app.codility.com/demo/results/trainingCGZ4DU-XXB/)|100||
 |35| TieRopes |[Java](https://app.codility.com/demo/results/trainingBWRP25-JQ6/)|100||
 |36| MaxNonoverlappingSegments |[Java](https://app.codility.com/demo/results/training9G844S-BCW/)|100||
+|37| Longgest Password |[Java](https://app.codility.com/demo/results/trainingVZ2QDZ-3DY/)|100||
+
 
 ## [Alogrithm](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty | Runtime Distribution | References |
