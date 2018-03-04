@@ -75,6 +75,7 @@
 |28|Valid Palindrome II | [Java](https://leetcode.com/submissions/detail/142157397/)|Easy|98.63%||
 |29|Add Binary | [Java](https://leetcode.com/submissions/detail/142300981/)|Easy|42.60%||
 |30 |Valid Parenttheses | [Java](https://leetcode.com/submissions/detail/143319664/)|Easy|45.84%||
+|31 |Moves Zero | [Java](https://leetcode.com/submissions/detail/143325638/)|Easy|18.05%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
