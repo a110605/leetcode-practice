@@ -79,7 +79,7 @@
 |31 |Moves Zero | [Java](https://leetcode.com/submissions/detail/143325638/)|Easy|18.05%||
 |32 |Basic Calculator| [Java](https://leetcode.com/submissions/detail/147022365/)|Hard|25.26%||
 |33 | Rotate Image| [Java](https://leetcode.com/submissions/detail/147314168/)|Medium|100%||
-|771 |  Jewels and Stones| [Python]https://leetcode.com/submissions/detail/340544556/)|Easy|67.26%||
+|771 | Jewels and Stones| [Python](https://leetcode.com/submissions/detail/340544556/)|Easy|67.26%||
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
