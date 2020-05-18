@@ -80,7 +80,7 @@
 |32 |Basic Calculator| [Java](https://leetcode.com/submissions/detail/147022365/)|Hard|25.26%||
 |33 | Rotate Image| [Java](https://leetcode.com/submissions/detail/147314168/)|Medium|100%||
 |771 | Jewels and Stones| [Python](https://leetcode.com/submissions/detail/340544556/)|Easy|67.26%||
-|104 |Maximum Depth of Binary Tree| [Python](https://leetcode.com/submissions/detail/341167974/)| Easy | 61%||
+|104 |Maximum Depth of Binary Tree| [Python](https://leetcode.com/submissions/detail/341167974/)| Easy | 61%|https://www.geeksforgeeks.org/iterative-method-to-find-height-of-binary-tree/|
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
