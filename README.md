@@ -40,7 +40,7 @@
 |104 |Maximum Depth of Binary Tree| [Python](https://leetcode.com/submissions/detail/341167974/)| Easy | 61%|https://www.geeksforgeeks.org/iterative-method-to-find-height-of-binary-tree/|
 |7|Reverse Integer|[Python](https://leetcode.com/submissions/detail/341181511/)| Easy |72.4%||
 |268| Missing Number |[Python](https://leetcode.com/submissions/detail/342939461/)|Easy| 31%| |
-
+|202| Happy Number|[Python](https://leetcode.com/submissions/detail/342986128/)|Easy| 31 %||
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
 |---| ----- | -------- | ---------- |----------------- |
