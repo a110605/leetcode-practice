@@ -42,6 +42,8 @@
 |268| Missing Number |[Python](https://leetcode.com/submissions/detail/342939461/)|Easy| 31%| |
 |202| Happy Number|[Python](https://leetcode.com/submissions/detail/342986128/)|Easy| 31 %||
 |206| Reverse Linked List|[Python](https://leetcode.com/submissions/detail/343936118/)|Easy| 75%||
+|198 | House Robber| [Pythpn](https://leetcode.com/submissions/detail/343948977/) |Easy| 64%| DP|
+
 
 ## [Shell](https://leetcode.com/problemset/shell/)
 | # | Title | My Solution | Difficulty | Runtime Distribution |
